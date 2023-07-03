@@ -2,5 +2,4 @@
 
 - item 1
 - item 2
-
-lorem ipsum...
+- item 3
